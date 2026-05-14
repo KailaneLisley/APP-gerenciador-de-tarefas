@@ -1,0 +1,6 @@
+{
+  "name": "FocoFlow",
+  "short_name": "FocoFlow",
+  "start_url": ".",
+  "display": "standalone"
+}
